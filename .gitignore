@@ -1,0 +1,9 @@
+bin/
+obj/
+.vs/
+publish/
+*.user
+*.pfx
+*private*.pem
+release-secrets/
+test-results/
